@@ -1,0 +1,463 @@
+province,male,female,age
+Prov. Bali,173522,161169,0-4
+Prov. Bali,178837,167662,5-9
+Prov. Bali,168541,157430,10-14
+Prov. Bali,147447,137563,15-19
+Prov. Bali,141708,141196,20-24
+Prov. Bali,165904,166516,25-29
+Prov. Bali,170956,170640,30-34
+Prov. Bali,181063,176243,35-39
+Prov. Bali,155377,150762,40-44
+Prov. Bali,123469,121258,45-49
+Prov. Bali,98337,100121,50-54
+Prov. Bali,78666,76255,55-59
+Prov. Bali,58801,64413,60-64
+Prov. Bali,118720,138181,65+
+Prov. Banten,540618,509714,0-4
+Prov. Banten,550908,517080,5-9
+Prov. Banten,549458,513675,10-14
+Prov. Banten,521305,497975,15-19
+Prov. Banten,514726,515413,20-24
+Prov. Banten,540298,535342,25-29
+Prov. Banten,489021,487905,30-34
+Prov. Banten,452463,425260,35-39
+Prov. Banten,380625,345959,40-44
+Prov. Banten,295167,265703,45-49
+Prov. Banten,224955,197729,50-54
+Prov. Banten,149147,123477,55-59
+Prov. Banten,94561,94924,60-64
+Prov. Banten,135896,162862,65+
+Prov. Bengkulu,90508,85299,0-4
+Prov. Bengkulu,90252,84807,5-9
+Prov. Bengkulu,89086,84558,10-14
+Prov. Bengkulu,81033,78408,15-19
+Prov. Bengkulu,78839,78218,20-24
+Prov. Bengkulu,80971,80142,25-29
+Prov. Bengkulu,76979,73135,30-34
+Prov. Bengkulu,66308,64532,35-39
+Prov. Bengkulu,57573,54414,40-44
+Prov. Bengkulu,49698,45842,45-49
+Prov. Bengkulu,40347,34958,50-54
+Prov. Bengkulu,26739,22327,55-59
+Prov. Bengkulu,17785,16851,60-64
+Prov. Bengkulu,31041,34868,65+
+Prov. D I Yogyakarta,132365,124558,0-4
+Prov. D I Yogyakarta,128437,121410,5-9
+Prov. D I Yogyakarta,129902,122711,10-14
+Prov. D I Yogyakarta,144199,141564,15-19
+Prov. D I Yogyakarta,151706,144840,20-24
+Prov. D I Yogyakarta,140728,137237,25-29
+Prov. D I Yogyakarta,132726,132697,30-34
+Prov. D I Yogyakarta,127354,130460,35-39
+Prov. D I Yogyakarta,129568,136044,40-44
+Prov. D I Yogyakarta,112558,121461,45-49
+Prov. D I Yogyakarta,101011,106595,50-54
+Prov. D I Yogyakarta,79917,79220,55-59
+Prov. D I Yogyakarta,54526,64923,60-64
+Prov. D I Yogyakarta,143913,184861,65+
+Prov. DKI Jakarta,427049,402775,0-4
+Prov. DKI Jakarta,401341,375207,5-9
+Prov. DKI Jakarta,351527,339847,10-14
+Prov. DKI Jakarta,387215,428599,15-19
+Prov. DKI Jakarta,502470,507929,20-24
+Prov. DKI Jakarta,586344,558568,25-29
+Prov. DKI Jakarta,514311,477849,30-34
+Prov. DKI Jakarta,435345,401274,35-39
+Prov. DKI Jakarta,360728,337012,40-44
+Prov. DKI Jakarta,283987,279466,45-49
+Prov. DKI Jakarta,220852,219887,50-54
+Prov. DKI Jakarta,161124,151791,55-59
+Prov. DKI Jakarta,100132,101346,60-64
+Prov. DKI Jakarta,138513,155299,65+
+Prov. Gorontalo,54875,51818,0-4
+Prov. Gorontalo,59562,56912,5-9
+Prov. Gorontalo,56225,53656,10-14
+Prov. Gorontalo,51242,51355,15-19
+Prov. Gorontalo,39213,39775,20-24
+Prov. Gorontalo,44238,44156,25-29
+Prov. Gorontalo,43165,43516,30-34
+Prov. Gorontalo,42179,40832,35-39
+Prov. Gorontalo,35050,34572,40-44
+Prov. Gorontalo,28604,28204,45-49
+Prov. Gorontalo,22073,22423,50-54
+Prov. Gorontalo,17265,17143,55-59
+Prov. Gorontalo,11672,13136,60-64
+Prov. Gorontalo,16551,20752,65+
+Prov. Jambi,165283,156616,0-4
+Prov. Jambi,164102,155182,5-9
+Prov. Jambi,155733,147519,10-14
+Prov. Jambi,137983,133425,15-19
+Prov. Jambi,140839,142874,20-24
+Prov. Jambi,154341,153007,25-29
+Prov. Jambi,142914,135134,30-34
+Prov. Jambi,124708,117274,35-39
+Prov. Jambi,104059,96865,40-44
+Prov. Jambi,86629,81231,45-49
+Prov. Jambi,70960,63872,50-54
+Prov. Jambi,49487,41859,55-59
+Prov. Jambi,31412,29784,60-64
+Prov. Jambi,52660,56513,65+
+Prov. Jawa Barat,2119969,2004666,0-4
+Prov. Jawa Barat,2207317,2083318,5-9
+Prov. Jawa Barat,2146506,2037114,10-14
+Prov. Jawa Barat,1965450,1884478,15-19
+Prov. Jawa Barat,1826776,1786560,20-24
+Prov. Jawa Barat,1988660,1940773,25-29
+Prov. Jawa Barat,1850314,1808273,30-34
+Prov. Jawa Barat,1758987,1677663,35-39
+Prov. Jawa Barat,1523829,1448269,40-44
+Prov. Jawa Barat,1266133,1211306,45-49
+Prov. Jawa Barat,1033134,974059,50-54
+Prov. Jawa Barat,782426,694815,55-59
+Prov. Jawa Barat,518274,535028,60-64
+Prov. Jawa Barat,919265,1060370,65+
+Prov. Jawa Tengah,1362128,1284566,0-4
+Prov. Jawa Tengah,1416891,1343867,5-9
+Prov. Jawa Tengah,1492750,1410887,10-14
+Prov. Jawa Tengah,1363700,1284621,15-19
+Prov. Jawa Tengah,1123529,1162344,20-24
+Prov. Jawa Tengah,1237793,1286167,25-29
+Prov. Jawa Tengah,1219799,1248331,30-34
+Prov. Jawa Tengah,1165677,1200613,35-39
+Prov. Jawa Tengah,1154428,1208803,40-44
+Prov. Jawa Tengah,1051256,1097288,45-49
+Prov. Jawa Tengah,916123,917458,50-54
+Prov. Jawa Tengah,724870,673489,55-59
+Prov. Jawa Tengah,476200,527341,60-64
+Prov. Jawa Tengah,1013235,1267501,65+
+Prov. Jawa Timur,1463775,1391828,0-4
+Prov. Jawa Timur,1553027,1471127,5-9
+Prov. Jawa Timur,1585645,1504537,10-14
+Prov. Jawa Timur,1475160,1449134,15-19
+Prov. Jawa Timur,1329017,1372477,20-24
+Prov. Jawa Timur,1503968,1554637,25-29
+Prov. Jawa Timur,1437531,1485179,30-34
+Prov. Jawa Timur,1464184,1502758,35-39
+Prov. Jawa Timur,1403677,1462913,40-44
+Prov. Jawa Timur,1248980,1315172,45-49
+Prov. Jawa Timur,1095505,1094961,50-54
+Prov. Jawa Timur,859843,804054,55-59
+Prov. Jawa Timur,578436,645514,60-64
+Prov. Jawa Timur,1106731,1503507,65+
+Prov. Kalimantan Barat,231341,219050,0-4
+Prov. Kalimantan Barat,249755,237872,5-9
+Prov. Kalimantan Barat,233766,221751,10-14
+Prov. Kalimantan Barat,202551,198242,15-19
+Prov. Kalimantan Barat,194970,195803,20-24
+Prov. Kalimantan Barat,205279,202210,25-29
+Prov. Kalimantan Barat,190177,179534,30-34
+Prov. Kalimantan Barat,168304,155681,35-39
+Prov. Kalimantan Barat,145291,134219,40-44
+Prov. Kalimantan Barat,119636,111974,45-49
+Prov. Kalimantan Barat,98074,91906,50-54
+Prov. Kalimantan Barat,70183,62799,55-59
+Prov. Kalimantan Barat,50695,49765,60-64
+Prov. Kalimantan Barat,77293,79095,65+
+Prov. Kalimantan Selatan,183788,172604,0-4
+Prov. Kalimantan Selatan,188917,177274,5-9
+Prov. Kalimantan Selatan,171850,161354,10-14
+Prov. Kalimantan Selatan,167230,160784,15-19
+Prov. Kalimantan Selatan,162519,161963,20-24
+Prov. Kalimantan Selatan,170654,170922,25-29
+Prov. Kalimantan Selatan,163140,160340,30-34
+Prov. Kalimantan Selatan,155364,149680,35-39
+Prov. Kalimantan Selatan,132141,126060,40-44
+Prov. Kalimantan Selatan,106699,101538,45-49
+Prov. Kalimantan Selatan,85065,79411,50-54
+Prov. Kalimantan Selatan,55594,50311,55-59
+Prov. Kalimantan Selatan,38017,42688,60-64
+Prov. Kalimantan Selatan,55232,75477,65+
+Prov. Kalimantan Tengah,119696,113102,0-4
+Prov. Kalimantan Tengah,123059,115877,5-9
+Prov. Kalimantan Tengah,109515,103003,10-14
+Prov. Kalimantan Tengah,101762,96355,15-19
+Prov. Kalimantan Tengah,105114,102726,20-24
+Prov. Kalimantan Tengah,117120,110846,25-29
+Prov. Kalimantan Tengah,108541,96828,30-34
+Prov. Kalimantan Tengah,96903,83895,35-39
+Prov. Kalimantan Tengah,79096,67562,40-44
+Prov. Kalimantan Tengah,61793,52423,45-49
+Prov. Kalimantan Tengah,47129,39327,50-54
+Prov. Kalimantan Tengah,31326,25034,55-59
+Prov. Kalimantan Tengah,20738,19127,60-64
+Prov. Kalimantan Tengah,31951,32241,65+
+Prov. Kalimantan Timur,201748,189560,0-4
+Prov. Kalimantan Timur,192023,179306,5-9
+Prov. Kalimantan Timur,167454,156775,10-14
+Prov. Kalimantan Timur,152341,142011,15-19
+Prov. Kalimantan Timur,169305,157851,20-24
+Prov. Kalimantan Timur,196708,179585,25-29
+Prov. Kalimantan Timur,182506,161023,30-34
+Prov. Kalimantan Timur,158889,138756,35-39
+Prov. Kalimantan Timur,134842,115565,40-44
+Prov. Kalimantan Timur,104788,88890,45-49
+Prov. Kalimantan Timur,79902,64025,50-54
+Prov. Kalimantan Timur,56245,40240,55-59
+Prov. Kalimantan Timur,32368,26804,60-64
+Prov. Kalimantan Timur,42571,41062,65+
+Prov. Kepulauan Bangka Belitung,65709,62139,0-4
+Prov. Kepulauan Bangka Belitung,63173,60215,5-9
+Prov. Kepulauan Bangka Belitung,56007,53296,10-14
+Prov. Kepulauan Bangka Belitung,52696,49289,15-19
+Prov. Kepulauan Bangka Belitung,62016,57422,20-24
+Prov. Kepulauan Bangka Belitung,67976,60962,25-29
+Prov. Kepulauan Bangka Belitung,59404,51591,30-34
+Prov. Kepulauan Bangka Belitung,48975,43223,35-39
+Prov. Kepulauan Bangka Belitung,40129,36029,40-44
+Prov. Kepulauan Bangka Belitung,34041,31234,45-49
+Prov. Kepulauan Bangka Belitung,29202,26469,50-54
+Prov. Kepulauan Bangka Belitung,21534,19297,55-59
+Prov. Kepulauan Bangka Belitung,13810,12817,60-64
+Prov. Kepulauan Bangka Belitung,20422,24219,65+
+Prov. Kepulauan Riau,103863,97176,0-4
+Prov. Kepulauan Riau,86589,81736,5-9
+Prov. Kepulauan Riau,63587,59717,10-14
+Prov. Kepulauan Riau,56960,58607,15-19
+Prov. Kepulauan Riau,88532,101783,20-24
+Prov. Kepulauan Riau,109075,110672,25-29
+Prov. Kepulauan Riau,100536,94802,30-34
+Prov. Kepulauan Riau,80269,68236,35-39
+Prov. Kepulauan Riau,58226,44669,40-44
+Prov. Kepulauan Riau,39419,31372,45-49
+Prov. Kepulauan Riau,27350,23757,50-54
+Prov. Kepulauan Riau,19092,16404,55-59
+Prov. Kepulauan Riau,11732,10970,60-64
+Prov. Kepulauan Riau,16914,17118,65+
+Prov. Lampung,380269,358534,0-4
+Prov. Lampung,377555,355127,5-9
+Prov. Lampung,394779,373394,10-14
+Prov. Lampung,356165,328328,15-19
+Prov. Lampung,333838,322273,20-24
+Prov. Lampung,348630,333194,25-29
+Prov. Lampung,338364,319999,30-34
+Prov. Lampung,301363,284379,35-39
+Prov. Lampung,263323,247760,40-44
+Prov. Lampung,224107,216634,45-49
+Prov. Lampung,185449,163443,50-54
+Prov. Lampung,138714,115078,55-59
+Prov. Lampung,90035,87911,60-64
+Prov. Lampung,184031,185729,65+
+Prov. Maluku,96318,91221,0-4
+Prov. Maluku,99919,92634,5-9
+Prov. Maluku,90407,83863,10-14
+Prov. Maluku,73410,69359,15-19
+Prov. Maluku,64858,64441,20-24
+Prov. Maluku,64376,66187,25-29
+Prov. Maluku,56615,57792,30-34
+Prov. Maluku,49640,49887,35-39
+Prov. Maluku,42860,42706,40-44
+Prov. Maluku,36942,37617,45-49
+Prov. Maluku,31248,31095,50-54
+Prov. Maluku,22898,21995,55-59
+Prov. Maluku,16575,16822,60-64
+Prov. Maluku,29411,32410,65+
+Prov. Maluku Utara,65160,62284,0-4
+Prov. Maluku Utara,66154,62271,5-9
+Prov. Maluku Utara,58981,54578,10-14
+Prov. Maluku Utara,48980,46046,15-19
+Prov. Maluku Utara,46008,45793,20-24
+Prov. Maluku Utara,48270,48768,25-29
+Prov. Maluku Utara,43296,42501,30-34
+Prov. Maluku Utara,38048,36213,35-39
+Prov. Maluku Utara,30837,28175,40-44
+Prov. Maluku Utara,24683,22961,45-49
+Prov. Maluku Utara,20831,19233,50-54
+Prov. Maluku Utara,15276,13076,55-59
+Prov. Maluku Utara,10429,9420,60-64
+Prov. Maluku Utara,14440,15375,65+
+Prov. Nanggroe Aceh Darussalam,253712,239717,0-4
+Prov. Nanggroe Aceh Darussalam,243660,230550,5-9
+Prov. Nanggroe Aceh Darussalam,241286,229002,10-14
+Prov. Nanggroe Aceh Darussalam,223321,219159,15-19
+Prov. Nanggroe Aceh Darussalam,214391,224005,20-24
+Prov. Nanggroe Aceh Darussalam,206555,211272,25-29
+Prov. Nanggroe Aceh Darussalam,181093,183800,30-34
+Prov. Nanggroe Aceh Darussalam,164744,162205,35-39
+Prov. Nanggroe Aceh Darussalam,134996,134606,40-44
+Prov. Nanggroe Aceh Darussalam,111812,113412,45-49
+Prov. Nanggroe Aceh Darussalam,90675,88268,50-54
+Prov. Nanggroe Aceh Darussalam,65745,62404,55-59
+Prov. Nanggroe Aceh Darussalam,43374,49589,60-64
+Prov. Nanggroe Aceh Darussalam,73588,97469,65+
+Prov. Nusa Tenggara Barat,243246,230185,0-4
+Prov. Nusa Tenggara Barat,238677,226569,5-9
+Prov. Nusa Tenggara Barat,234035,222702,10-14
+Prov. Nusa Tenggara Barat,211564,213612,15-19
+Prov. Nusa Tenggara Barat,175723,211570,20-24
+Prov. Nusa Tenggara Barat,182957,220022,25-29
+Prov. Nusa Tenggara Barat,164260,191918,30-34
+Prov. Nusa Tenggara Barat,158862,178130,35-39
+Prov. Nusa Tenggara Barat,132333,146709,40-44
+Prov. Nusa Tenggara Barat,112962,122127,45-49
+Prov. Nusa Tenggara Barat,98189,104764,50-54
+Prov. Nusa Tenggara Barat,69620,68996,55-59
+Prov. Nusa Tenggara Barat,58136,61610,60-64
+Prov. Nusa Tenggara Barat,94994,109690,65+
+Prov. Nusa Tenggara Timur,302375,289418,0-4
+Prov. Nusa Tenggara Timur,310289,294143,5-9
+Prov. Nusa Tenggara Timur,277899,263190,10-14
+Prov. Nusa Tenggara Timur,217460,208656,15-19
+Prov. Nusa Tenggara Timur,167936,177259,20-24
+Prov. Nusa Tenggara Timur,163253,182550,25-29
+Prov. Nusa Tenggara Timur,150055,168954,30-34
+Prov. Nusa Tenggara Timur,140965,155580,35-39
+Prov. Nusa Tenggara Timur,128948,139560,40-44
+Prov. Nusa Tenggara Timur,114082,120383,45-49
+Prov. Nusa Tenggara Timur,95951,98859,50-54
+Prov. Nusa Tenggara Timur,70930,71190,55-59
+Prov. Nusa Tenggara Timur,55673,61130,60-64
+Prov. Nusa Tenggara Timur,110145,120750,65+
+Prov. Papua,164265,147540,0-4
+Prov. Papua,184976,161014,5-9
+Prov. Papua,181453,150424,10-14
+Prov. Papua,147561,127411,15-19
+Prov. Papua,128834,129029,20-24
+Prov. Papua,134353,142048,25-29
+Prov. Papua,137404,134914,30-34
+Prov. Papua,125735,115954,35-39
+Prov. Papua,107316,83251,40-44
+Prov. Papua,78284,56611,45-49
+Prov. Papua,48593,32922,50-54
+Prov. Papua,27411,18719,55-59
+Prov. Papua,16400,11138,60-64
+Prov. Papua,15567,11460,65+
+Prov. Papua Barat,48329,45380,0-4
+Prov. Papua Barat,45621,42607,5-9
+Prov. Papua Barat,40564,37070,10-14
+Prov. Papua Barat,36398,33768,15-19
+Prov. Papua Barat,40056,36198,20-24
+Prov. Papua Barat,42360,37980,25-29
+Prov. Papua Barat,37014,32069,30-34
+Prov. Papua Barat,29731,25426,35-39
+Prov. Papua Barat,25555,21450,40-44
+Prov. Papua Barat,19216,16168,45-49
+Prov. Papua Barat,14369,11871,50-54
+Prov. Papua Barat,10116,7587,55-59
+Prov. Papua Barat,6135,4855,60-64
+Prov. Papua Barat,6934,5595,65+
+Prov. Riau,332317,313582,0-4
+Prov. Riau,322740,304432,5-9
+Prov. Riau,289907,272672,10-14
+Prov. Riau,253431,240904,15-19
+Prov. Riau,257148,260614,20-24
+Prov. Riau,282245,278844,25-29
+Prov. Riau,261608,244195,30-34
+Prov. Riau,229015,207970,35-39
+Prov. Riau,187160,164742,40-44
+Prov. Riau,143667,128037,45-49
+Prov. Riau,108934,94584,50-54
+Prov. Riau,73056,61210,55-59
+Prov. Riau,43897,41217,60-64
+Prov. Riau,68043,72196,65+
+Prov. Sulawesi Barat,70997,67067,0-4
+Prov. Sulawesi Barat,75947,71843,5-9
+Prov. Sulawesi Barat,68038,63858,10-14
+Prov. Sulawesi Barat,53509,53243,15-19
+Prov. Sulawesi Barat,45792,48006,20-24
+Prov. Sulawesi Barat,47888,49851,25-29
+Prov. Sulawesi Barat,44355,45526,30-34
+Prov. Sulawesi Barat,43277,42105,35-39
+Prov. Sulawesi Barat,34900,34303,40-44
+Prov. Sulawesi Barat,26039,25634,45-49
+Prov. Sulawesi Barat,21340,21829,50-54
+Prov. Sulawesi Barat,15057,14715,55-59
+Prov. Sulawesi Barat,12679,13798,60-64
+Prov. Sulawesi Barat,21708,25347,65+
+Prov. Sulawesi Selatan,394266,370448,0-4
+Prov. Sulawesi Selatan,427032,401037,5-9
+Prov. Sulawesi Selatan,413009,390137,10-14
+Prov. Sulawesi Selatan,358367,357454,15-19
+Prov. Sulawesi Selatan,320521,341526,20-24
+Prov. Sulawesi Selatan,311189,335619,25-29
+Prov. Sulawesi Selatan,289991,313075,30-34
+Prov. Sulawesi Selatan,284121,300354,35-39
+Prov. Sulawesi Selatan,247426,267340,40-44
+Prov. Sulawesi Selatan,197242,220100,45-49
+Prov. Sulawesi Selatan,164104,182193,50-54
+Prov. Sulawesi Selatan,125291,135832,55-59
+Prov. Sulawesi Selatan,98834,122547,60-64
+Prov. Sulawesi Selatan,179780,248181,65+
+Prov. Sulawesi Tengah,148866,140627,0-4
+Prov. Sulawesi Tengah,161946,152631,5-9
+Prov. Sulawesi Tengah,139896,131481,10-14
+Prov. Sulawesi Tengah,115922,111728,15-19
+Prov. Sulawesi Tengah,109682,107533,20-24
+Prov. Sulawesi Tengah,119441,117329,25-29
+Prov. Sulawesi Tengah,113783,108697,30-34
+Prov. Sulawesi Tengah,105511,100130,35-39
+Prov. Sulawesi Tengah,89039,83036,40-44
+Prov. Sulawesi Tengah,70981,65321,45-49
+Prov. Sulawesi Tengah,57957,52733,50-54
+Prov. Sulawesi Tengah,41632,36259,55-59
+Prov. Sulawesi Tengah,29773,28276,60-64
+Prov. Sulawesi Tengah,46415,48384,65+
+Prov. Sulawesi Tenggara,138214,130038,0-4
+Prov. Sulawesi Tenggara,138406,129400,5-9
+Prov. Sulawesi Tenggara,126742,118650,10-14
+Prov. Sulawesi Tenggara,107592,105756,15-19
+Prov. Sulawesi Tenggara,96150,101478,20-24
+Prov. Sulawesi Tenggara,96989,100531,25-29
+Prov. Sulawesi Tenggara,85159,86463,30-34
+Prov. Sulawesi Tenggara,80754,80539,35-39
+Prov. Sulawesi Tenggara,67254,64227,40-44
+Prov. Sulawesi Tenggara,51678,50824,45-49
+Prov. Sulawesi Tenggara,41795,42313,50-54
+Prov. Sulawesi Tenggara,30804,27713,55-59
+Prov. Sulawesi Tenggara,22056,23770,60-64
+Prov. Sulawesi Tenggara,38233,45833,65+
+Prov. Sulawesi Utara,103941,97552,0-4
+Prov. Sulawesi Utara,115189,106567,5-9
+Prov. Sulawesi Utara,107105,100144,10-14
+Prov. Sulawesi Utara,98943,92593,15-19
+Prov. Sulawesi Utara,86047,80726,20-24
+Prov. Sulawesi Utara,90966,84968,25-29
+Prov. Sulawesi Utara,94451,89947,30-34
+Prov. Sulawesi Utara,96707,92019,35-39
+Prov. Sulawesi Utara,88012,82468,40-44
+Prov. Sulawesi Utara,72704,68953,45-49
+Prov. Sulawesi Utara,64830,60904,50-54
+Prov. Sulawesi Utara,50174,47783,55-59
+Prov. Sulawesi Utara,32394,32424,60-64
+Prov. Sulawesi Utara,55577,71011,65+
+Prov. Sumatera Barat,259189,244052,0-4
+Prov. Sumatera Barat,270517,252310,5-9
+Prov. Sumatera Barat,267777,253206,10-14
+Prov. Sumatera Barat,220577,220658,15-19
+Prov. Sumatera Barat,185002,192832,20-24
+Prov. Sumatera Barat,191612,194391,25-29
+Prov. Sumatera Barat,182431,180711,30-34
+Prov. Sumatera Barat,166510,168141,35-39
+Prov. Sumatera Barat,147302,150685,40-44
+Prov. Sumatera Barat,131755,139681,45-49
+Prov. Sumatera Barat,120970,126700,50-54
+Prov. Sumatera Barat,94158,93926,55-59
+Prov. Sumatera Barat,56136,60948,60-64
+Prov. Sumatera Barat,110441,164291,65+
+Prov. Sumatera Selatan,394111,372732,0-4
+Prov. Sumatera Selatan,391031,367683,5-9
+Prov. Sumatera Selatan,373668,354357,10-14
+Prov. Sumatera Selatan,349922,333865,15-19
+Prov. Sumatera Selatan,360004,352909,20-24
+Prov. Sumatera Selatan,361902,347759,25-29
+Prov. Sumatera Selatan,323297,308458,30-34
+Prov. Sumatera Selatan,281527,268036,35-39
+Prov. Sumatera Selatan,239570,234391,40-44
+Prov. Sumatera Selatan,204848,201534,45-49
+Prov. Sumatera Selatan,171108,160661,50-54
+Prov. Sumatera Selatan,122957,109510,55-59
+Prov. Sumatera Selatan,79147,82307,60-64
+Prov. Sumatera Selatan,139555,163545,65+
+Prov. Sumatera Utara,742227,704319,0-4
+Prov. Sumatera Utara,748676,703899,5-9
+Prov. Sumatera Utara,721606,682178,10-14
+Prov. Sumatera Utara,638440,622867,15-19
+Prov. Sumatera Utara,549021,558356,20-24
+Prov. Sumatera Utara,550112,552675,25-29
+Prov. Sumatera Utara,493385,491206,30-34
+Prov. Sumatera Utara,447411,454270,35-39
+Prov. Sumatera Utara,399979,411281,40-44
+Prov. Sumatera Utara,344206,359752,45-49
+Prov. Sumatera Utara,292971,298876,50-54
+Prov. Sumatera Utara,208870,210820,55-59
+Prov. Sumatera Utara,121696,139439,60-64
+Prov. Sumatera Utara,209852,293726,65+
